@@ -1,8 +1,2 @@
-streamlit==1.31.1
-streamlit-javascript==0.1.5
-folium==0.14.0
-streamlit-folium==0.15.1
-pandas==2.1.4
-Pillow==10.1.0
-sqlite3==2.6.0  # (normally comes with Python)
-base64io==1.0.3  # (for base64 encoding)
+streamlit>=1.30.0
+streamlit-js-eval>=0.1.7
